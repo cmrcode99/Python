@@ -1,0 +1,13 @@
+Day 5 Machine Learning Use Case
+1.Find Your Target Output Column
+2.Seperate X and Y
+3.The do data preprocessing
+4.Replace the NaN with the mean
+5.Take Care of Strings/Categorical Values
+6. for y column one hot encoding not necessary only x col in machine learning, except in deep learning
+7. Then split the data into two sets- one training set and one test set
+8. Then you feature scale(normalize the data)
+9. Then you train, Training= Data+ Algo= Model
+9. Supervised Ml- X and Y are know- There is Classification and Regression
+Unsupervised- Only X is known – Clustering
+10. Look at the Data to figure out what type of regression you are doing, with many x values test different models to see which model has the best health.
