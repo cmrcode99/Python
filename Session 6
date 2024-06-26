@@ -1,0 +1,14 @@
+Regression(Y is a numerical value) 
+-	Simple Linear Regression(y=mx+b)
+-	Multiple Linear Regression(y= w1x1+w1x2+w1x3+B)
+-	Limitation- Cannot visualize more than 3 dimensions
+Classification-(Y is a category)
+-	KNearest Neighbour
+-	Random First Classification
+-	Logistic Regression
+-	SVM
+Unsupervised(Just X)
+-	Clustering
+-	Kmeans
+-	Hierarchical Clustering
+Overfitting= Fitting all the points
