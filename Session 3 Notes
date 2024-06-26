@@ -1,0 +1,11 @@
+Session 3.
+Python is an OOPS- Object Oriented Programming
+A class is the parameters that frame an object. 
+For example, A= Vehicle(x,y)
+The object A is of the vehicle class
+Functions can also be put inside classes which give the objects behavior 
+An example of a class would be Human, and the Object would be Mark, Mark is assigned values of the human class and can exhibit behavior of the human class
+Re- Can be used to search through your code for stuff
+Numpy- is a python library, can be used to make arrays/matrixes
+You can do a variety of mathematical functions with numpy
+Numpy will take random samples from a uniform distribution over the range 0-1
