@@ -1,0 +1,13 @@
+Pandas is another Python Library
+You can Make a Dataframe using Pandas, which is similar to an excel sheet
+Dataframes are mutable and you can acess values of a dataframe
+Series are just one column of a data frame
+Center- Mean median mode
+Spread- range, quartile, IQR, Variance, Standard Deviation
+Mean
+Matplotlib= visualizing data using graphs
+You can visualize thousands of different data using matplotlib
+1.	First step of a machine learning is to find your target column, which column is the most relevant that you are trying to predict.
+2.	Y= target column
+3.	X= predictor
+You can also import values from an excel sheet.
